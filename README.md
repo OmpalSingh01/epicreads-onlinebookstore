@@ -58,11 +58,13 @@ npm install
 
 3️⃣ Setup Environment Variables
 
-Create a .env file in the server directory and add:
+Create a .env (backend)  file in the server directory and add:
 
-MONGO_URI=your-mongodb-connection-string
-JWT_SECRET=your-secret-key
-RZP_KEY=your-razorpay-key
+PORT=4001
+MONGO_URI=your-mongodb-connection-string (Make it on MongoDb Atlas)
+
+RZP_KEY=your-razorpay-key(Payment Gateway)
+
 
 4️⃣ Run the Application
 
