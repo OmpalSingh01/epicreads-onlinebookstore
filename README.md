@@ -8,15 +8,6 @@
 <!-- Project title centered -->
 <h1 align="center">📚 Epic Reads - Online Bookstore</h1>
 
-<!-- Short description centered -->
-<p align="center">
-Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
-It allows users to <b>browse</b>, <b>purchase</b>, and <b>manage books</b> with a modern responsive UI.
-</p>
-
-
-
-
 
 <p align="center">
   Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
