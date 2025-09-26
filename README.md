@@ -1,4 +1,8 @@
-<h1 align="center">📚 Epic Reads - Online Bookstore</h1>
+<h1 align="center">📚 Epic Reads - Online Bookstore</h1> <p align="right">
+   <a href="https://epicread1.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 <p align="center">
   Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
@@ -26,14 +30,6 @@
   <img src="https://img.shields.io/github/issues-pr/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
   <img src="https://img.shields.io/github/repo-size/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  🚀 <a href="https://epicread1.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
-  </a>
 </p>
 
 ---
