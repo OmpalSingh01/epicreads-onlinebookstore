@@ -1,21 +1,18 @@
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Left: Empty -->
-    <td width="30%"></td>
+<!-- Live Demo badge aligned right -->
+<p align="right">
+  <a href="https://epicread1.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-    <!-- Center: Title -->
-    <td align="center" width="40%">
-      <h1>📚 Epic Reads - Online Bookstore</h1>
-    </td>
+<!-- Project title centered -->
+<h1 align="center">📚 Epic Reads - Online Bookstore</h1>
 
-    <!-- Right: Badge -->
-    <td align="right" width="30%">
-      <a href="https://epicread1.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Short description centered -->
+<p align="center">
+Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
+It allows users to <b>browse</b>, <b>purchase</b>, and <b>manage books</b> with a modern responsive UI.
+</p>
 
 
 
