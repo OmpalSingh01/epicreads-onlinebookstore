@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
 <p align="center">
   <table>
@@ -104,6 +104,7 @@ Epic Reads is designed with the goal of creating a modern, scalable, and user-fr
 
 📦 Order Management – Keep track of purchased books.
 
+---
 
 ## 📸 Screenshots / Demo  
 
@@ -133,38 +134,50 @@ Epic Reads is designed with the goal of creating a modern, scalable, and user-fr
 </p>
 
 
+---
 
-
-⚙️ Getting Started
+# ⚙️ Getting Started
 
 Follow these steps to set up Epic Reads locally:
 
-1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
+```
 git clone https://github.com/OmpalSingh01/epicreads-onlinebookstore.git
+```
 
-2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 
 For both client and server:
 
-npm install
 
-3️⃣ Setup Environment Variables
+```npm install```
+
+## 3️⃣ Setup Environment Variables
 
 Create a .env file inside the server directory and add:
 
+```
 PORT=4001
 MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your-secret-key
 RZP_KEY=your-razorpay-key
 
-4️⃣ Run the Application
+```
+
+## 4️⃣ Run the Application
+```
 Start Backend
 npm start
 
 Start Frontend
 npm run dev
 
-🧩 Folder Structure
+```
+---
+
+# 🧩 Folder Structure
+
+```
 epicreads-onlinebookstore/
 │── client/          # React frontend
 │   ├── src/         
@@ -181,7 +194,11 @@ epicreads-onlinebookstore/
 │
 └── README.md
 
-🏆 Achievements
+```
+
+---
+
+# 🏆 Achievements
 
 ✅ Successfully integrated secure JWT authentication for users.
 ✅ Implemented real-time Razorpay payment gateway for seamless checkout.
@@ -189,7 +206,9 @@ epicreads-onlinebookstore/
 ✅ Optimized backend APIs for fast and scalable book retrieval.
 ✅ Deployed on Vercel + Render with CI/CD support.
 
-🔮 Future Enhancements
+---
+
+# 🔮 Future Enhancements
 
 🚀 Wishlist & Favorites – Let users save books for later.
 📝 Book Reviews & Ratings – Community-driven feedback system.
@@ -199,10 +218,13 @@ epicreads-onlinebookstore/
 📚 Recommendation Engine – AI-powered book suggestions.
 🔔 Email Notifications – Order confirmations & promotions.
 
-🤝 Contributing
+---
+
+# 🤝 Contributing
 
 Contributions are welcome! 🎉
 
+```
 Fork the repo
 
 Create a feature branch:
@@ -221,14 +243,16 @@ git push origin feature/your-feature
 
 
 Open a Pull Request 🚀
+```
 
-📄 License
+---
+
+## 📄 License
 
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
-👨‍💻 Maintainer
+## 👨‍💻 Maintainer
 
 Mohit Singh
-📧 [mohitsingh.2626452@gmail.com
-]
+📧 [mohitsingh.2626452@gmail.com]
 🔗 Epic Reads – Live
