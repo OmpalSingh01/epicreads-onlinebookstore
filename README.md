@@ -1,5 +1,11 @@
 <h1 align="center">📚 Epic Reads - Online Bookstore</h1>
-<h2 align="centre"> Epic Reads is a full-stack online bookstore built with the MERN stack. It provides readers with a seamless platform to browse, purchase, and manage books, featuring a modern responsive design optimized for all devices.</h2>
+
+<p align="center">
+  Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
+  It provides readers with a seamless platform to <b>browse</b>, <b>purchase</b>, and <b>manage books</b>,  
+  featuring a modern, responsive design optimized for <b>desktop</b>, <b>tablet</b>, and <b>mobile</b>.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
@@ -30,7 +36,7 @@
   </a>
 </p>
 
-
+---
 
 ## 🛠️ Tech Stack  
 
@@ -67,9 +73,9 @@
   </table>
 </p>
 
+---
 
-
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Epic Reads is designed with the goal of creating a modern, scalable, and user-friendly online bookstore that:
 
@@ -78,8 +84,9 @@ Epic Reads is designed with the goal of creating a modern, scalable, and user-fr
 ✔️ Supports secure authentication and streamlined checkout.
 ✔️ Ensures cross-device compatibility (desktop, tablet, mobile).
 
+---
 
-✨ Features
+# ✨ Features
 
 📖 Book Catalog – Explore a wide range of books by categories and genres.
 
