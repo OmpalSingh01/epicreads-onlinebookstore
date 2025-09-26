@@ -207,9 +207,13 @@ epicreads-onlinebookstore/
 # 🏆 Achievements
 
 ✅ Successfully integrated secure JWT authentication for users.
+
 ✅ Implemented real-time Razorpay payment gateway for seamless checkout.
+
 ✅ Built a fully responsive UI with Tailwind CSS + DaisyUI.
+
 ✅ Optimized backend APIs for fast and scalable book retrieval.
+
 ✅ Deployed on Vercel + Render with CI/CD support.
 
 ---
@@ -217,12 +221,19 @@ epicreads-onlinebookstore/
 # 🔮 Future Enhancements
 
 🚀 Wishlist & Favorites – Let users save books for later.
+
 📝 Book Reviews & Ratings – Community-driven feedback system.
+
 🛠️ Admin Dashboard – Manage inventory, users, and orders.
+
 📦 Order History & Tracking – Better post-purchase experience.
+
 🌍 Internationalization (i18n) – Multi-language support.
+
 📚 Recommendation Engine – AI-powered book suggestions.
+
 🔔 Email Notifications – Order confirmations & promotions.
+
 
 ---
 
@@ -261,4 +272,5 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 Mohit Singh
 📧 [mohitsingh.2626452@gmail.com]
+
 🔗 Epic Reads – Live
