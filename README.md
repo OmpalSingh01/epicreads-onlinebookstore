@@ -1,9 +1,10 @@
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>📚 Epic Reads - Online Bookstore</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://epicread1.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
+  <h1 style="margin: 0;">📚 Epic Reads - Online Bookstore</h1>
 </div>
+
 
 
 <p align="center">
