@@ -1,8 +1,10 @@
-<h1 align="center">📚 Epic Reads - Online Bookstore</h1> <p align="right">
-   <a href="https://epicread1.vercel.app/">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>📚 Epic Reads - Online Bookstore</h1>
+  <a href="https://epicread1.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
-</p>
+</div>
+
 
 <p align="center">
   Epic Reads is a <b>full-stack online bookstore</b> built with the <b>MERN stack</b>.  
