@@ -37,6 +37,16 @@
 </p>
 
 ---
+# 🎯 Project Objectives
+
+Epic Reads is designed with the goal of creating a modern, scalable, and user-friendly online bookstore that:
+
+✔️ Enables efficient book browsing, purchasing, and management.
+✔️ Provides a responsive and accessible UI using Tailwind CSS and DaisyUI.
+✔️ Supports secure authentication and streamlined checkout.
+✔️ Ensures cross-device compatibility (desktop, tablet, mobile).
+
+---
 
 # 🛠️ Tech Stack  
 
@@ -73,16 +83,6 @@
   </table>
 </p>
 
----
-
-# 🎯 Project Objectives
-
-Epic Reads is designed with the goal of creating a modern, scalable, and user-friendly online bookstore that:
-
-✔️ Enables efficient book browsing, purchasing, and management.
-✔️ Provides a responsive and accessible UI using Tailwind CSS and DaisyUI.
-✔️ Supports secure authentication and streamlined checkout.
-✔️ Ensures cross-device compatibility (desktop, tablet, mobile).
 
 ---
 
