@@ -15,6 +15,8 @@
   featuring a modern, responsive design optimized for <b>desktop</b>, <b>tablet</b>, and <b>mobile</b>.
 </p>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
