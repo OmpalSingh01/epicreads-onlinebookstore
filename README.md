@@ -1,16 +1,26 @@
-<table width="100%">
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="left">
+    <!-- Left: Badge -->
+    <td align="left" width="20%">
       <a href="https://epicread1.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
       </a>
     </td>
-    <td align="center">
+
+    <!-- Center: Title -->
+    <td align="center" width="60%">
       <h1>📚 Epic Reads - Online Bookstore</h1>
     </td>
-    <td></td>
+
+    <!-- Right: Empty -->
+    <td width="20%"></td>
   </tr>
 </table>
+
+</div>
+
 
 
 
