@@ -1,17 +1,31 @@
-[![MERN Stack](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=mongodb)]()
-[![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)]()
-[![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![JWT](https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens)]()
-[![Razorpay](https://img.shields.io/badge/Payment-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Deployment Vercel](https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel)](https://epicread1.vercel.app/)
-[![Deployment Render](https://img.shields.io/badge/Backend-Render-purple?style=for-the-badge&logo=render)]()
+<h1 align="center">📚 Epic Reads - Online Bookstore</h1>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge&logo=github)
-![GitHub issues](https://img.shields.io/github/issues/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Payment-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Backend-Render-purple?style=for-the-badge&logo=render" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/issues/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/OmpalSingh01/epicreads-onlinebookstore?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  🚀 <a href="https://epicread1.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
